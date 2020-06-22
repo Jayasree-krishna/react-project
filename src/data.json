@@ -1,0 +1,139 @@
+{
+    "profile":[
+{
+    "basics":{
+        "name":"V Jayasree",
+        "role":"jaya2@gmail.com",
+        "phone":"628264385"
+    },
+    "career":"I am seeking for company whare my experince can not only improve the status of company but also automate the working process to the best possible one.",
+    "Education":{
+        "college":"RGUKT",
+        "Degree":"B Tech,CSE",
+        "Address":"Idupulapaya",
+        "cgpa":"9.2",
+        "g_year":"2016-2022",
+        "school":"ZPGHS,pgr",
+        "Address1":"Punganur",
+        "s_year":"2006-2016"
+        
+    },
+    "Personal":{
+        "DOB":"Oct 10 2000",
+        "age":"20",
+        "Mother":"Saraswathi",
+        "Father":"Krishnappa",
+        "Religion":"Hindu",
+        "place_of_Birth":"punaganur",
+        "desired":"bangalore",
+        "gender":"Female",
+        "moccupation":"HouseWife",
+        "foccupation":"Farmer"
+    },
+    "projects":{
+        "task1":{
+            "head":"OpenDB Python Library",
+            "Problem":"To Develop a library fro connecting Databases",
+            "role":"Algorithm Development"
+        },
+        "task2":{
+            "head":"Online Music Android App",
+            "Problem":"to listen online music",
+            "role":"Code Development in Java"
+        }
+    }
+
+},
+
+{
+    "basics":{
+        "name":"V Charitha",
+        "role":"chery@gmail.com",
+        "phone":"728264385"
+    },
+    "career":"I am seeking for company whare my experince can not only improve the status of company but also automate the working process to the best possible one.",
+    "Education":{
+        "college":"RGUKT",
+        "Degree":"B Tech,CSE",
+        "Address":"Idupulapaya",
+        "cgpa":"9.2",
+        "g_year":"2016-2022",
+        "school":"ZPGHS,pgr",
+        "Address1":"Punganur",
+        "s_year":"2006-2016"
+        
+    },
+    "Personal":{
+        "DOB":"Oct 10 2000",
+        "age":"20",
+        "Mother":"Saraswathi",
+        "Father":"Krishnappa",
+        "Religion":"Hindu",
+        "place_of_Birth":"punaganur",
+        "desired":"bangalore",
+        "gender":"Female",
+        "moccupation":"HouseWife",
+        "foccupation":"Farmer"
+    },
+    "projects":{
+        "task1":{
+            "head":"OpenDB Python Library",
+            "Problem":"To Develop a library fro connecting Databases",
+            "role":"Algorithm Development"
+        },
+        "task2":{
+            "head":"Online Music Android App",
+            "Problem":"to listen online music",
+            "role":"Code Development in Java"
+        }
+    }
+
+},
+{
+    "basics":{
+        "name":"V Krishna",
+        "role":"krish@gmail.com",
+        "phone":"928264385"
+    },
+    "career":"I am seeking for company whare my experince can not only improve the status of company but also automate the working process to the best possible one.",
+    "Education":{
+        "college":"RGUKT",
+        "Degree":"B Tech,CSE",
+        "Address":"Idupulapaya",
+        "cgpa":"9.2",
+        "g_year":"2016-2022",
+        "school":"ZPGHS,pgr",
+        "Address1":"Punganur",
+        "s_year":"2006-2016"
+        
+    },
+    "Personal":{
+        "DOB":"Oct 10 2000",
+        "age":"20",
+        "Mother":"Saraswathi",
+        "Father":"Krishnappa",
+        "Religion":"Hindu",
+        "place_of_Birth":"punaganur",
+        "desired":"bangalore",
+        "gender":"Female",
+        "moccupation":"HouseWife",
+        "foccupation":"Farmer"
+    },
+    "projects":{
+        "task1":{
+            "head":"OpenDB Python Library",
+            "Problem":"To Develop a library fro connecting Databases",
+            "role":"Algorithm Development"
+        },
+        "task2":{
+            "head":"Online Music Android App",
+            "Problem":"to listen online music",
+            "role":"Code Development in Java"
+        }
+    }
+
+}
+    
+    
+]
+}

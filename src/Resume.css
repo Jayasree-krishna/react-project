@@ -1,0 +1,21 @@
+@media (min-width: 781px) and (max-width: 1000px) {
+    .left{
+        order:2;
+    }
+    .left{
+        order: 1;
+    }
+ }
+ @media (max-width: 480px){
+     .main{
+         display: flex;
+         flex-direction: row;
+     }
+     img{
+         width: 50%;
+         align-self:center;
+     }
+     .hi{
+         display: none;
+     }
+ }
